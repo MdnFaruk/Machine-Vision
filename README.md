@@ -1,4 +1,4 @@
-# Machine Vision 521466S-3008
+# Machine Vision
 
 > Course page and workspace for exercises, assignments and course materials.
 
